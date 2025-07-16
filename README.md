@@ -69,6 +69,19 @@ mern-testing/
 - Cypress/Playwright: End-to-end testing framework
 - MongoDB Memory Server: In-memory MongoDB for testing
 
+## 🧪 Testing Strategy & Coverage
+
+- **Unit Testing:** Describe your approach for unit testing both client and server (tools, philosophy, coverage goals).
+- **Integration Testing:** Explain how you test integration points (API endpoints, component-API interaction, etc.).
+- **End-to-End Testing:** Outline your E2E testing setup (Cypress/Playwright), what flows are covered, and how to run them.
+- **Coverage:** Include screenshots or summary of your code coverage reports. State your coverage percentage.
+
+## 🐞 Debugging Techniques
+
+- **Client:** Describe use of error boundaries, browser dev tools, and any logging.
+- **Server:** Describe use of logging, global error handler, and any monitoring tools.
+- **Examples:** Provide code snippets or screenshots demonstrating debugging in action.
+
 ## Submission
 
 Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
